@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
   s.name         = "HorizontalPicker"
-  s.version      = "1.1.7"
+  s.version      = "1.1.8"
   s.summary      = "A similar to UIPickerView but horizontal picker view."
-  s.homepage     = "https://github.com/HHuckebein/HorizontalPicker"
+  s.homepage     = "https://github.com/wangii/HorizontalPicker"
   s.license      = { :type => 'MIT', :file => 'LICENSE.txt' }
   s.author       = { "RABE_IT Services" => "info@berndrabe.de" }
   s.source       = { :git => "https://github.com/HHuckebein/HorizontalPicker.git", :tag => s.version.to_s }
